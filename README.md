@@ -1,6 +1,6 @@
 # TheSignature
 
-TODO: Write a gem description
+Simple key/secret based authentication for apis
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install the_signature
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
